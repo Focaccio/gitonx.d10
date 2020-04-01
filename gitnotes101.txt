@@ -1,0 +1,22 @@
+git config --global user.name "name"
+
+git config --global user.email user@domain
+
+go to /gitonx.x to gitize
+
+git init
+
+git remote add origin https://github.com/user/gitonx.x.git
+
+files in /gitonx.x
+
+git add filenames
+
+git add .
+
+git commit
+! interactive
+
+git push -u origin master 
+! interactive
+
